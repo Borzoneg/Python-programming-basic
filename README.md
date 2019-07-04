@@ -1,2 +1,2 @@
 # Python-programming-basic
-Where I put all my stuffs :c
+Where I put all my python stuffs c:
