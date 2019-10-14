@@ -14,7 +14,7 @@ for key in recipeK:
     if(recipeK(i) in availableK ):
         i += 1
         if(i == len(recipeK)):
-            print("asd")
+            print("cucinabile")
 
 
 print(recipeK)
